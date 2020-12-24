@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  border: dashed 10px;
+
+}
+
+body{
+
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+
+}
